@@ -1,4 +1,4 @@
-import emojiSplatter from ".";
+import emojiSplatter from "./index";
 
 function allTextNodes() {
   const textNodes = [];

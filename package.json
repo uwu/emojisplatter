@@ -1,8 +1,9 @@
 {
   "name": "emoji-splatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Splatter emojis all over your beautiful text",
   "main": "index.js",
   "author": "Yellowsink",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "type": "module"
 }
